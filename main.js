@@ -58,7 +58,7 @@ const levelButtons = [
 ];
 
 // Load GLB
-const loader = new GLTFLoader().setPath('/');
+const loader = new GLTFLoader().setPath('assets/');
 loader.load(
   'assembly_glb.glb',
   (gltf) => {
@@ -179,3 +179,4 @@ function animate() {
 }
 
 animate();
+
