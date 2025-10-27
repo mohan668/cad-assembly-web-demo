@@ -20,3 +20,4 @@ The goal is **not** to replicate a full-featured industrial controller or CAD sy
 ## Usage
 
 1. **Clone this repo:** https://github.com/mohan668/cad-assembly-web-demo.git
+2. **View here**: https://mohan668.github.io/cad-assembly-web-demo/
