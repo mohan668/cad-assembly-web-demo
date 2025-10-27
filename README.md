@@ -2,7 +2,7 @@
 
 This project is a modern, browser-based demonstration showing how to handle and visualize animated CAD assembly files on the web. It focuses on loading `.glb` (or `.gltf`) files exported from CAD software, handling embedded motion/animation, and providing an interactive user interface using Three.js.
 
-## ✨ Purpose
+## Purpose
 
 The goal is **not** to replicate a full-featured industrial controller or CAD system, but rather to provide a learning and reference template for:
 
@@ -12,11 +12,11 @@ The goal is **not** to replicate a full-featured industrial controller or CAD sy
 
 ## Key Features
 
-- 🏗️ **3D Viewer:** Interactive, orbit-controllable display of CAD assemblies directly in the browser.
-- 🎥 **Animation Control:** Programmatic checkpoint playback and smooth transitions (move between keyframes, play up/down).
-- 📦 **GLB/GLTF Support:** Supports any properly-exported animated file (export from SolidWorks/Blender with keyframes or rigid assembly animation).
-- ⚡ **No Build Step:** Just clone, add your `glb`/`gltf` file, and open `index.html`.
+- **3D Viewer:** Interactive, orbit-controllable display of CAD assemblies directly in the browser.
+- **Animation Control:** Programmatic checkpoint playback and smooth transitions (move between keyframes, play up/down).
+- **GLB/GLTF Support:** Supports any properly-exported animated file (export from SolidWorks/Blender with keyframes or rigid assembly animation).
+- **No Build Step:** Just clone, add your `glb`/`gltf` file, and open `index.html`.
 
 ## Usage
 
-1. **Clone this repo:**
+1. **Clone this repo:** https://github.com/mohan668/cad-assembly-web-demo.git
